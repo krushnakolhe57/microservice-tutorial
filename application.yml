@@ -1,6 +1,4 @@
-spring:
-  application:
-    name: CONGIG-DEFAULT
+
 eureka:
   instance:
     prefer-ip-address: true
