@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: CONGIG-DEV
 
 eureka:
   instance:
